@@ -28,33 +28,26 @@ const About = () => {
       >
         <Typography variant="h4">Welcome To My Resturant</Typography>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat quod,
-          suscipit, aperiam totam autem culpa cum eveniet dolorum quasi est
-          perspiciatis laborum. Nam recusandae nihil quia odio voluptatibus
-          facere omnis facilis rerum? Ab eum beatae nobis reiciendis, qui
-          temporibus aliquid, nesciunt velit sed quam recusandae necessitatibus,
-          tempora maxime. Repellendus incidunt, maxime labore dolorum eos
-          aperiam unde? At veritatis nesciunt eos quas cupiditate blanditiis est
-          quam maiores, amet, soluta exercitationem voluptatum, veniam
-          assumenda? Ratione perferendis officiis deserunt nostrum aspernatur
-          sed asperiores! Earum sunt placeat ducimus sint, deleniti amet esse
-          saepe voluptatem commodi laudantium quibusdam repellat nobis libero at
-          consectetur adipisci ipsa.
+        Welcome to My Restaurant, where culinary excellence meets warm hospitality. We're more than just a place to eat; we're a destination for memorable dining experiences.
         </p>
         <br />
+        <Typography variant="h4">Our Story</Typography>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-          deserunt libero reprehenderit cum sint fugit cumque temporibus modi
-          facere eveniet amet obcaecati ducimus harum velit maxime vel qui
-          voluptatibus quam odio corrupti saepe, voluptas dolorum quidem
-          tempore? Esse sapiente molestias minus enim quisquam dolorum eum culpa
-          ullam impedit velit quo, corporis ducimus numquam dignissimos
-          inventore maiores. Nam deleniti itaque nostrum neque dolorum dolores,
-          aliquam, voluptatum sapiente doloribus laborum perspiciatis ipsam, quo
-          ut nisi distinctio sunt nihil est blanditiis perferendis eveniet
-          nesciunt! Nostrum, voluptatum eveniet repellat vel officia deleniti
-          tempore voluptatibus perferendis esse eaque temporibus porro?
-          Aspernatur beatae deleniti illo autem!
+        Founded with a passion for creating exceptional cuisine and providing outstanding service, My Restaurant has been a cornerstone of our community since [Year Established]. Our journey began with a simple idea: to craft dishes that tantalize the taste buds and create lasting memories for our guests.
+        </p>
+        <Typography variant="h4">Our Culinary Philosophy</Typography>
+        <p>
+        We're not just in the business of serving food; we're in the business of making people happy. Our friendly staff is dedicated to ensuring you have an exceptional dining experience every time you visit. From the moment you step through our doors, you'll be greeted with a warm smile and a commitment to exceeding your expectations.
+        </p>
+        <br />
+        <Typography variant="h4">Join Us</Typography>
+        <p>
+        We invite you to be a part of our story. Whether it's a romantic dinner for two, a celebration with friends and family, or a business gathering, My Restaurant is the perfect setting for any occasion. We can't wait to welcome you and make your visit truly unforgettable.
+        <br />
+        
+        Explore our menu, make a reservation, or contact us today to discover why My Restaurant is more than just a place to eat; it's an experience to savor.
+        <br />
+        Thank you for choosing My Restaurant. We look forward to serving you soon.
         </p>
       </Box>
     </Layout>
